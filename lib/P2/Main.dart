@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
 }
 
 // =====================================================================
-// PROFILE 
+// PROFILE .
 // =====================================================================
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});
